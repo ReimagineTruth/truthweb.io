@@ -38,9 +38,9 @@ TruthWeb has a zero-tolerance policy for behavior that undermines the integrity 
 
 If you encounter or witness any unacceptable behavior, we ask that you report it to the TruthWeb team immediately. Reports can be made through the following channels:
 
-- Email: [email@truthweb.com]
-- Telegram: [TruthWeb Telegram Link]
-- GitHub Issues: [TruthWeb GitHub Repository Link]
+- Email: reimaginetruth@gmail.com
+- Telegram: https://t.me/TruthWebOfficial
+- GitHub Issues: https://github.com/ReimagineTruth/truthweb.io/issues
 
 Upon receiving a report, we will investigate the situation and take appropriate action. This could include:
 
@@ -60,8 +60,8 @@ We encourage open communication and direct resolution of disagreements. If confl
 
 If you see violations of this Code of Conduct, please report them as soon as possible. You can report violations to:
 
-- Email: [email@truthweb.com]
-- Telegram: (https://t.me/TruthWebOfficial)
+- Email: reimaginetruth@gmail.com
+- Telegram: https://t.me/TruthWebOfficial
 - GitHub: (https://github.com/ReimagineTruth/truthweb.io)
 
 We will review all reports and take appropriate actions swiftly to maintain a positive and respectful environment for everyone.

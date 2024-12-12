@@ -46,8 +46,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Join Us
 
-- Visit our website at [www.reimaginetruth.org](https://www.truthweb.io)
-- Follow us on Twitter: [@ReimagineTruth](https://x.com/reimagine_truth)
+- Visit our website at (https://www.truthweb.io)
+- Follow us on Twitter: (https://x.com/reimagine_truth)
 - Join the conversation on Telegram: (https://t.me/TruthWebOfficial)
 
 Together, we can reimagine the truth and revolutionize the future of Web3.

@@ -61,8 +61,8 @@ We encourage open communication and direct resolution of disagreements. If confl
 If you see violations of this Code of Conduct, please report them as soon as possible. You can report violations to:
 
 - Email: [email@truthweb.com]
-- Telegram: [TruthWeb Telegram Group Link]
-- GitHub: [TruthWeb GitHub Repository Link]
+- Telegram: (https://t.me/TruthWebOfficial)
+- GitHub: (https://github.com/ReimagineTruth/truthweb.io)
 
 We will review all reports and take appropriate actions swiftly to maintain a positive and respectful environment for everyone.
 

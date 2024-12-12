@@ -29,9 +29,9 @@ At **Reimagine Truth Organization** and **TruthWeb**, we take the security of ou
 1. **Do not** disclose the vulnerability publicly until it has been reviewed and addressed.
 2. Send a detailed report about the vulnerability, including how it can be reproduced, any potential risks, and any suggestions for fixing it. Please send your report to us at:
 
-   - Email: [security@truthweb.com]
-   - Telegram: [TruthWeb Security Channel Link]
-   - GitHub Issues: [Link to Security Issue Template]
+   - Email: reimaginetruth@gmail.com
+   - Telegram: (https://t.me/TruthWebOfficial)
+   - GitHub Issues: https://github.com/ReimagineTruth/truthweb.io/issues
 
 3. We will acknowledge receipt of your report within 48 hours.
 4. A security team member will investigate and determine the impact of the vulnerability. We will work to resolve the issue as quickly as possible and release a patch or mitigation.

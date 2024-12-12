@@ -1,0 +1,24 @@
+/your-project-folder
+    ├── /assets
+    │   ├── /images
+    │   └── /styles
+    ├── /js
+    │   └── main.js
+    ├── /pages
+    │   ├── home.html
+    │   ├── discover.html
+    │   ├── newsfeed.html
+    │   ├── groups.html
+    │   ├── messages.html
+    │   ├── analytics.html
+    │   ├── settings.html
+    │   ├── profile.html
+    │   └── logout.html
+    ├── /components
+    │   ├── navbar.html
+    │   ├── footer.html
+    │   ├── modal.html
+    │   └── drawer.html
+    ├── index.html
+    └── /styles
+        └── style.css

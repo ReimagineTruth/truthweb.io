@@ -1,5 +1,4 @@
-# TruthWeb
-<img src="https://i.ibb.co/VYkLhGc/Rare-9.png" alt="Rare-9" border="0">
+# TruthWeb <img src="https://i.ibb.co/8gvcZmX/Add-a-heading-72.png" alt="Add-a-heading-72" border="0">
 
 ## The Next-Gen Social Media Platform for the Crypto and Web3 Community 📢🌐
 
